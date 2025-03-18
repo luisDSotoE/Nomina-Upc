@@ -19,7 +19,7 @@ const TablaNominas: React.FC<TablaNominasProps> = ({ nominas }) => {
           {nominas.map((nomina, index) => (
             <tr key={index} className="hover:bg-gray-50">
               <td className="py-2 px-4 border-b">{nomina.tipo}</td>
-              <td className="py-2 px-4 border-b">${nomina.salario}</td>
+              <td className="py-2 px-4 border-b">${nomina.salario} SMMLV</td>
             </tr>
           ))}
         </tbody>

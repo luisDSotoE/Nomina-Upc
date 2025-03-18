@@ -124,7 +124,7 @@ export default function NominaCompletedView() {
           <div className="mt-6">
             <h2 className="text-xl font-semibold mb-4">Nómina Total</h2>
             <p className="text-2xl font-bold text-blue-800">
-              ${nóminaTotal.toFixed(2)} SMMLV
+              ${nóminaTotal} SMMLV
             </p>
           </div>
         )}

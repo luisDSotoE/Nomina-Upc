@@ -36,7 +36,7 @@ const Grafica: React.FC<GraficaProps> = ({ salarios }) => {
           <YAxis
             tick={{ fill: "#555" }}
             axisLine={{ stroke: "#ccc" }}
-            tickFormatter={(value) => `$${value.toFixed(2)}`}
+            tickFormatter={(value) => `$${value} `}
           />
           <Tooltip
             contentStyle={{
