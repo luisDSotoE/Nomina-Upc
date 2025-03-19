@@ -1,3 +1,9 @@
+articulo basado para la construccion del ejercicio: 
+ARTICULO 58. Valor del punto.
+
+El valor del punto, al entrar en vigencia este decreto, para los empleados públicos docentes de las universidades estatales u oficiales, es de seis mil cuatrocientos treinta y cinco pesos m.l. ($ 6.435.oo).
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +58,5 @@ export default tseslint.config({
   },
 })
 ```
+
+
